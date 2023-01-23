@@ -1,16 +1,11 @@
-# quiz_app
+# App Quiz - Flutter UI
 
-A new Flutter project.
+[//]: # (Criei duas telas, uma é a página inicial e outra é a página de detalhes para um aplicativo de entrega de comida.)
 
-## Getting Started
+**Packages usados:**
 
-This project is a starting point for a Flutter application.
+[//]: # (- [intl]&#40;https://pub.dev/packages/intl&#41;)
 
-A few resources to get you started if this is your first Flutter project:
+### Demonstração visual da tela do app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[//]: # (![Tela principal]&#40;/prints/1.png&#41;)
